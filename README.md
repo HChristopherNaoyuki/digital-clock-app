@@ -51,5 +51,3 @@ This project is open-source and free to use. You can modify and distribute it as
 ## Acknowledgments
 
 Thanks to the Java community for their resources and documentation that made this project possible.
-
-Feel free to reach out with any questions or suggestions regarding this project!
