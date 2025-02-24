@@ -43,11 +43,3 @@ To run this application, ensure you have the following installed:
 ## Customization
 
 - You can customize the appearance of the clock by changing the font type, size, and colors in the `Digital_Clock` constructor.
-
-## License
-
-This project is open-source and free to use. You can modify and distribute it as per your needs.
-
-## Acknowledgments
-
-Thanks to the Java community for their resources and documentation that made this project possible.
